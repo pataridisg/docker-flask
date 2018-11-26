@@ -1,0 +1,1 @@
+{% extends "base.html" %} {% block content %} <div class="container"> <div class="jumbotron"> <h1>This is the temp page</h1> <h2>The value is 34</h2> </div> </div> {% endblock %}
