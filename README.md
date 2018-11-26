@@ -8,7 +8,7 @@ On Docker host run: docker run -d -p 80:80 pataridis/docker-flask
 
 On Docker machine run: docker run -d -p 80:80 pataridis/docker-flask
 
-Docker compose: docker-compose up -d
+**Docker compose: docker-compose up -d**
 
 Source code: https://github.com/pataridisg/docker-flask
 
